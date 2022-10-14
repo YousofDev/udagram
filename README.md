@@ -1,8 +1,6 @@
 # Hosting a Full-Stack Application
 
-[![<YousofDev>](https://circleci.com/<gh>/<YousofDev>/<udagram>.svg?style=svg)](https://app.circleci.com/pipelines/github/YousofDev/udagram)
-
-------------------------------------------------------------------
+---
 
 In this project you will learn how to take a newly developed Full-Stack application built for a retailer and deploy it to a cloud service provider so that it is available to customers. You will use the aws console to start and configure the services the application needs such as a database to store product information and a web server allowing the site to be discovered by potential customers. You will modify your package.json scripts and replace hard coded secrets with environment variables in your code.
 
